@@ -1,0 +1,6 @@
+definition,white_years,years,pct,ci95_low,ci95_high
+Official rule: snow or sleet seen falling at any station,53,66,80.3,69.2,88.1
+"Same rule, excluding values flagged as automatic or corrected",53,66,80.3,69.2,88.1
+"Same rule, snow only (sleet does not count)",47,66,71.2,59.4,80.7
+Snow or sleet falling at 5% or more of stations,33,66,50.0,38.3,61.7
+Widespread lying snow: 40% or more of stations,4,66,6.1,2.4,14.6

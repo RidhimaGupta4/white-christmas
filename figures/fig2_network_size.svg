@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="388.8pt" viewBox="0 0 576 388.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T22:38:06.965283</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 388.8 
+L 576 388.8 
+L 576 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 51.84 287.712 
+L 535.68 287.712 
+L 535.68 93.312 
+L 51.84 93.312 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="88.494545" y="303.3995" transform="rotate(-0 88.494545 303.3995)">5</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="125.149091" y="303.3995" transform="rotate(-0 125.149091 303.3995)">10</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="235.112727" y="303.3995" transform="rotate(-0 235.112727 303.3995)">25</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="418.385455" y="303.3995" transform="rotate(-0 418.385455 303.3995)">50</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="528.349091" y="303.3995" transform="rotate(-0 528.349091 303.3995)">65</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="293.76" y="323.499109" transform="rotate(-0 293.76 323.499109)">Number of stations in the network</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <path d="M 51.84 287.712 
+L 535.68 287.712 
+" clip-path="url(#pd570690a7a)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end; fill: #52514e" x="45.84" y="292.55575" transform="rotate(-0 45.84 292.55575)">0%</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <path d="M 51.84 239.112 
+L 535.68 239.112 
+" clip-path="url(#pd570690a7a)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end; fill: #52514e" x="45.84" y="243.95575" transform="rotate(-0 45.84 243.95575)">25%</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <path d="M 51.84 190.512 
+L 535.68 190.512 
+" clip-path="url(#pd570690a7a)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end; fill: #52514e" x="45.84" y="195.35575" transform="rotate(-0 45.84 195.35575)">50%</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <path d="M 51.84 141.912 
+L 535.68 141.912 
+" clip-path="url(#pd570690a7a)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end; fill: #52514e" x="45.84" y="146.75575" transform="rotate(-0 45.84 146.75575)">75%</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <path d="M 51.84 93.312 
+L 535.68 93.312 
+" clip-path="url(#pd570690a7a)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15"/>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end; fill: #52514e" x="45.84" y="98.15575" transform="rotate(-0 45.84 98.15575)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_16">
+    <path d="M 51.84 131.602909 
+L 535.68 131.602909 
+" clip-path="url(#pd570690a7a)" style="fill: none; stroke: #52514e; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 51.84 287.712 
+L 535.68 287.712 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 59.170909 263.8095 
+L 66.501818 248.259286 
+L 73.832727 237.305767 
+L 81.163636 229.058714 
+L 88.494545 222.521302 
+L 95.825455 217.138255 
+L 103.156364 212.58129 
+L 110.487273 208.644371 
+L 117.818182 205.19077 
+L 125.149091 202.12519 
+L 132.48 199.3784 
+L 139.810909 196.898352 
+L 147.141818 194.6448 
+L 154.472727 192.58589 
+L 161.803636 190.695919 
+L 169.134545 188.953805 
+L 176.465455 187.342017 
+L 183.796364 185.845799 
+L 191.127273 184.452607 
+L 198.458182 183.151676 
+L 205.789091 181.933699 
+L 213.12 180.790573 
+L 220.450909 179.715202 
+L 227.781818 178.701335 
+L 235.112727 177.743446 
+L 242.443636 176.836624 
+L 249.774545 175.976492 
+L 257.105455 175.159137 
+L 264.436364 174.381046 
+L 271.767273 173.639062 
+L 279.098182 172.93034 
+L 286.429091 172.252311 
+L 293.76 171.602647 
+L 301.090909 170.979242 
+L 308.421818 170.38018 
+L 315.752727 169.80372 
+L 323.083636 169.248278 
+L 330.414545 168.712407 
+L 337.745455 168.194786 
+L 345.076364 167.694208 
+L 352.407273 167.209566 
+L 359.738182 166.739847 
+L 367.069091 166.284119 
+L 374.4 165.841526 
+L 381.730909 165.41128 
+L 389.061818 164.992653 
+L 396.392727 164.584976 
+L 403.723636 164.187626 
+L 411.054545 163.80003 
+L 418.385455 163.421654 
+L 425.716364 163.052004 
+L 433.047273 162.690619 
+L 440.378182 162.33707 
+L 447.709091 161.990957 
+L 455.04 161.651906 
+L 462.370909 161.319567 
+L 469.701818 160.993612 
+L 477.032727 160.673733 
+L 484.363636 160.359641 
+L 491.694545 160.051063 
+L 499.025455 159.747743 
+L 506.356364 159.449438 
+L 513.687273 159.15592 
+L 521.018182 158.866971 
+L 528.349091 158.582387 
+" clip-path="url(#pd570690a7a)" style="fill: none; stroke: #2a78d6; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #0b0b0b" x="528.349091" y="125.034605" transform="rotate(-0 528.349091 125.034605)">Actual network each year (65–510 stations): 80%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #0b0b0b" x="88.494545" y="243.388427" transform="rotate(-0 88.494545 243.388427)">34%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #0b0b0b" x="125.149091" y="222.992315" transform="rotate(-0 125.149091 222.992315)">44%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #0b0b0b" x="235.112727" y="198.610571" transform="rotate(-0 235.112727 198.610571)">57%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #0b0b0b" x="418.385455" y="184.288779" transform="rotate(-0 418.385455 184.288779)">64%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #0b0b0b" x="528.349091" y="179.449512" transform="rotate(-0 528.349091 179.449512)">66%</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m76b6db87ce" d="M 0 3.391165 
+C 0.899347 3.391165 1.761981 3.03385 2.397916 2.397916 
+C 3.03385 1.761981 3.391165 0.899347 3.391165 0 
+C 3.391165 -0.899347 3.03385 -1.761981 2.397916 -2.397916 
+C 1.761981 -3.03385 0.899347 -3.391165 0 -3.391165 
+C -0.899347 -3.391165 -1.761981 -3.03385 -2.397916 -2.397916 
+C -3.03385 -1.761981 -3.391165 -0.899347 -3.391165 0 
+C -3.391165 0.899347 -3.03385 1.761981 -2.397916 2.397916 
+C -1.761981 3.03385 -0.899347 3.391165 0 3.391165 
+z
+" style="stroke: #fcfcfb; stroke-width: 2"/>
+    </defs>
+    <g clip-path="url(#pd570690a7a)">
+     <use xlink:href="#m76b6db87ce" x="88.494545" y="222.521302" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pd570690a7a)">
+     <use xlink:href="#m76b6db87ce" x="125.149091" y="202.12519" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pd570690a7a)">
+     <use xlink:href="#m76b6db87ce" x="235.112727" y="177.743446" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pd570690a7a)">
+     <use xlink:href="#m76b6db87ce" x="418.385455" y="163.421654" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#pd570690a7a)">
+     <use xlink:href="#m76b6db87ce" x="528.349091" y="158.582387" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_18">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="31.68" y="32.02725" transform="rotate(-0 31.68 32.02725)">More stations, more white Christmases</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 10px; font-family: 'Inter'; fill: #52514e" transform="translate(31.68 59.254945)">Same 66 Christmas Days (1960–2025), same weather. Share that would count as 'white' under the</text>
+   <text style="font-size: 10px; font-family: 'Inter'; fill: #52514e" transform="translate(31.68 75.965492)">official rule (snow or sleet at any station) if the network had only this many stations.</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 7.5px; font-family: 'Inter'; text-anchor: start; fill: #898781" x="31.68" y="378.350918" transform="rotate(-0 31.68 378.350918)">Data: Met Office MIDAS Open, UK daily weather observations (v202607), via CEDA. Open Government Licence.</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 7.5px; font-family: 'Inter'; fill: #898781" transform="translate(31.68 349.469656)">Exact calculation (hypergeometric), averaged over the same 66 years for every network size; no simulation.</text>
+   <text style="font-size: 7.5px; font-family: 'Inter'; fill: #898781" transform="translate(31.68 361.681838)">Assumes stations are drawn at random from each year's network, ignoring geography. Curve stops at 65, the smallest yearly network.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd570690a7a">
+   <rect x="51.84" y="93.312" width="483.84" height="194.4"/>
+  </clipPath>
+ </defs>
+</svg>

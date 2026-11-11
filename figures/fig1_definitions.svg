@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="388.8pt" viewBox="0 0 576 388.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T22:38:05.064780</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 388.8 
+L 576 388.8 
+L 576 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 190.08 314.928 
+L 489.6 314.928 
+L 489.6 89.424 
+L 190.08 89.424 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 190.08 314.928 
+L 190.08 89.424 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="190.08" y="330.6155" transform="rotate(-0 190.08 330.6155)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 264.96 314.928 
+L 264.96 89.424 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="264.96" y="330.6155" transform="rotate(-0 264.96 330.6155)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 339.84 314.928 
+L 339.84 89.424 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="339.84" y="330.6155" transform="rotate(-0 339.84 330.6155)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 414.72 314.928 
+L 414.72 89.424 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="414.72" y="330.6155" transform="rotate(-0 414.72 330.6155)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 489.6 314.928 
+L 489.6 89.424 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #52514e" x="489.6" y="330.6155" transform="rotate(-0 489.6 330.6155)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     <g id="text_6">
+      <text style="font-size: 9.5px; font-family: 'Inter'; fill: #0b0b0b" transform="translate(67.333906 109.100366)">Official rule: snow or sleet</text>
+      <text style="font-size: 9.5px; font-family: 'Inter'; fill: #0b0b0b" transform="translate(69.833594 120.594995)">seen falling at any station</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12"/>
+     <g id="text_7">
+      <text style="font-size: 9.5px; font-family: 'Inter'; fill: #0b0b0b" transform="translate(58.709688 155.065307)">Same rule, excluding values</text>
+      <text style="font-size: 9.5px; font-family: 'Inter'; fill: #0b0b0b" transform="translate(31.849922 166.559936)">flagged as automatic or corrected</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <text style="font-size: 9.5px; font-family: 'Inter'; fill: #0b0b0b" transform="translate(88.083984 201.030248)">Same rule, snow only</text>
+      <text style="font-size: 9.5px; font-family: 'Inter'; fill: #0b0b0b" transform="translate(85.689688 212.524877)">(sleet does not count)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <text style="font-size: 9.5px; font-family: 'Inter'; fill: #0b0b0b" transform="translate(82.125703 246.995189)">Snow or sleet falling at</text>
+      <text style="font-size: 9.5px; font-family: 'Inter'; fill: #0b0b0b" transform="translate(81.591328 258.489818)">5% or more of stations</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <text style="font-size: 9.5px; font-family: 'Inter'; fill: #0b0b0b" transform="translate(76.596406 292.96013)">Widespread lying snow:</text>
+      <text style="font-size: 9.5px; font-family: 'Inter'; fill: #0b0b0b" transform="translate(75.236719 304.454759)">40% or more of stations</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 190.08 120.818055 
+L 430.603636 120.818055 
+L 430.603636 99.674182 
+L 190.08 99.674182 
+z
+" clip-path="url(#p615a227b21)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 190.08 166.782996 
+L 430.603636 166.782996 
+L 430.603636 145.639123 
+L 190.08 145.639123 
+z
+" clip-path="url(#p615a227b21)" style="fill: #a9a7a0"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 190.08 212.747936 
+L 403.374545 212.747936 
+L 403.374545 191.604064 
+L 190.08 191.604064 
+z
+" clip-path="url(#p615a227b21)" style="fill: #a9a7a0"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 190.08 258.712877 
+L 339.84 258.712877 
+L 339.84 237.569004 
+L 190.08 237.569004 
+z
+" clip-path="url(#p615a227b21)" style="fill: #a9a7a0"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 190.08 304.677818 
+L 208.232727 304.677818 
+L 208.232727 283.533945 
+L 190.08 283.533945 
+z
+" clip-path="url(#p615a227b21)" style="fill: #a9a7a0"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 190.08 314.928 
+L 489.6 314.928 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 397.230981 110.246118 
+L 453.991481 110.246118 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 397.230981 114.382963 
+L 397.230981 106.109274 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 453.991481 114.382963 
+L 453.991481 106.109274 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="458.484281" y="113.883814" transform="rotate(-0 458.484281 113.883814)">80%  (53 of 66)</text>
+   </g>
+   <g id="line2d_19">
+    <path d="M 397.230981 156.211059 
+L 453.991481 156.211059 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 397.230981 160.347904 
+L 397.230981 152.074214 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 453.991481 160.347904 
+L 453.991481 152.074214 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="458.484281" y="159.848754" transform="rotate(-0 458.484281 159.848754)">80%  (53 of 66)</text>
+   </g>
+   <g id="line2d_22">
+    <path d="M 367.882627 202.176 
+L 431.877096 202.176 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 367.882627 206.312845 
+L 367.882627 198.039155 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 431.877096 206.312845 
+L 431.877096 198.039155 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="436.369896" y="205.813695" transform="rotate(-0 436.369896 205.813695)">71%  (47 of 66)</text>
+   </g>
+   <g id="line2d_25">
+    <path d="M 304.71674 248.140941 
+L 374.96326 248.140941 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 304.71674 252.277786 
+L 304.71674 244.004096 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 374.96326 252.277786 
+L 374.96326 244.004096 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="379.45606" y="251.778636" transform="rotate(-0 379.45606 251.778636)">50%  (33 of 66)</text>
+   </g>
+   <g id="line2d_28">
+    <path d="M 197.214036 294.105882 
+L 233.729394 294.105882 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 197.214036 298.242726 
+L 197.214036 289.969037 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 233.729394 298.242726 
+L 233.729394 289.969037 
+" clip-path="url(#p615a227b21)" style="fill: none; stroke: #52514e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="238.222194" y="297.743577" transform="rotate(-0 238.222194 297.743577)">6%  (4 of 66)</text>
+   </g>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'Inter'; text-anchor: start; fill: #0b0b0b" x="31.68" y="32.02725" transform="rotate(-0 31.68 32.02725)">How often is Christmas white? It depends on the definition</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 10px; font-family: 'Inter'; fill: #52514e" transform="translate(31.68 58.974477)">Share of Christmas Days 1960–2025 counted as 'white' under five definitions, UK Met Office stations.</text>
+   <text style="font-size: 10px; font-family: 'Inter'; fill: #52514e" transform="translate(31.68 76.88268)">Black lines show 95% intervals. Blue is the Met Office's own rule.</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 7.5px; font-family: 'Inter'; text-anchor: start; fill: #898781" x="31.68" y="378.350918" transform="rotate(-0 31.68 378.350918)">Data: Met Office MIDAS Open, UK daily weather observations (v202607), via CEDA. Open Government Licence.</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 7.5px; font-family: 'Inter'; fill: #898781" transform="translate(31.68 349.430984)">Intervals: Wilson score, treating each year as independent. 1973 excluded from 'white' under the official rule:</text>
+   <text style="font-size: 7.5px; font-family: 'Inter'; fill: #898781" transform="translate(31.68 361.89219)">its only snow report is flagged suspect by Met Office quality control (including it gives 54 of 66).</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p615a227b21">
+   <rect x="190.08" y="89.424" width="299.52" height="225.504"/>
+  </clipPath>
+ </defs>
+</svg>

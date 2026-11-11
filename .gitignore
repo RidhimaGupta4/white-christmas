@@ -1,0 +1,16 @@
+# Raw MIDAS downloads (large; get them with fast_download.py)
+dap.ceda.ac.uk/
+*.csv.gz
+
+# Generated outputs (rebuild with the scripts)
+results/
+analysis/
+
+# Python and macOS clutter
+__pycache__/
+*.pyc
+.DS_Store
+
+# Never commit access tokens
+.env
+*token*
